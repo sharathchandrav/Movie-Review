@@ -21,6 +21,8 @@ Includes an interactive function to classify custom movie reviews.
 
 **Input File**
 
+Source : https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
+
 The script requires a CSV file with the following structure:
 
 review
